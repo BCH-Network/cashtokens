@@ -1,4 +1,4 @@
-# [Cashtokens](https://cashtokens.cash/)
+# [CashTokens](https://cashtokens.cash/)
 CashTokens: A proposal to enable two new primitives on Bitcoin Cash: fungible tokens and non-fungible tokens.
 
 # CHIP-2022-02-CashTokens: Token Primitives for Bitcoin Cash
